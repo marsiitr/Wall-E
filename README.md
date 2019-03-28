@@ -49,19 +49,19 @@ It can be made autonomous using ML so that it can detect dustbins and collect ga
 
 ## TEAM MEMBERS
 
-Ayush Jalan   
-Birendar Yadav   
-Divesh Kumar   
-Ritik Raj    
-Sahil Sudan    
-Shubham Goyal  
+1.Ayush Jalan   
+2.Birendar Yadav   
+3.Divesh Kumar   
+4.Ritik Raj    
+5.Sahil Sudan    
+6.Shubham Goyal  
 
 
 
 ## MENTORS
 
-Navin Chandra    
-Vandan Gajjar   
-Yawan Gupta
+1.Navin Chandra    
+2.Vandan Gajjar   
+3.Yawan Gupta
 
 ![IMG_2637](https://user-images.githubusercontent.com/48998778/55175039-9357c500-51a4-11e9-9399-fb1e1b2defa3.JPG)
