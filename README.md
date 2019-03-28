@@ -34,8 +34,7 @@ Cost of making this bot is around Rs.8000.
 
 
 ## APPLICATIONS
-Wall-E can collect garbage directly from dustbins which can be disposed off later. It can be extremely useful for collecting toxic or harmful wastes and 
-thus can be used in hospitals, industries etc. 
+Wall-E can collect garbage directly from dustbins which can be disposed off later. It can be extremely useful for collecting toxic or harmful wastes and thus can be used in hospitals, industries etc. 
 
 
 ## LIMITATIONS
@@ -62,7 +61,7 @@ Shubham Goyal
 ## MENTORS
 
 Navin Chandra    
-Vandan Gajjar
+Vandan Gajjar   
 Yawan Gupta
 
 ![IMG_2637](https://user-images.githubusercontent.com/48998778/55175039-9357c500-51a4-11e9-9399-fb1e1b2defa3.JPG)
