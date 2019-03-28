@@ -43,6 +43,7 @@ The arduino code can be found in "src" folder. Our bot was controlled through an
 |Li-Po battery(2)|2200|
 |Led Matrix MAX7219(2)|300|
 |Other Components|2000|
+|Total|11530|
 
 
 ## Applications
