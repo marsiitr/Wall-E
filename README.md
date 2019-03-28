@@ -18,20 +18,41 @@ time.So introducing the robot, WALL-E that can collect waste directly from dustb
 
 ## Mechanical Aspect of the Design
 
+1. Our bot has differential chasis with three wheels.         
+2. One is castor wheel and the other two wheels are connected with two motors which provide movement to the bot.       
+3. With the help of these wheels, the bot can move in all directions.      
+4. The hands were operated using three dc motors.        
+5. The "up-down" motion of hands were provided  using worm and spur gear mechanism.            
+6. The hands were able to converge or diverge with the help of pulley and belt mechanism.          
+7. The body was made using channels and plywood whereas the head was 3D printed.
 
-Our bot has differential chasis with  three wheels out of which one is castor wheel and the other two motors are connected with two motors which provide movement to the bot.
-With the help of these wheels, the bot can move in all directions.The hands were operated using three dc motors.The "up-down" motion of hands were provided  using worm and spur gear mechanism.The hands were able to converge or diverge with the help of pulley and belt mechanism.
-The body was made using channels and plywood whereas the head was 3D printed.
 
+## Electronics Aspect of the Design      
+1. Electronic Components Used      
+         1.Arduino Uno     
+         2.Arduino Nano            
+         3.L298n motor drivers             
+         4.cytron motor driver                 
+         5.DC motors             
+         6.Servo motor           
+         7.Bluetooth module HC-05               
+         8.LED Matrix MAX7219              
+         9. Android device     
+         10.IC 7805 and IC 7809           
+         11.Connecting wires and jumpers             
 
-## Electronics Aspect of the Design
-We used two microcontrollers namely Arduino Uno and Arduino Nano, two L298n motor drivers, cytron motor driver,dc motors, servo motor,  bluetooth module and two LED Matrix MAX7219 for the this bot.Uno was used for movements of wheels and hands whereas nano was used for operating the head including LED Matrix used as the eyes of our bot, WallE.
-The arduino code can be found in "src" folder. Our bot was controlled through an Android device using an app made on MITAppInventor2. A bluetooth module was used for transmission of commands from android device to our bot. All the dc motors were powered through Li-Po dc battery.
+2. Arduino Uno was used for movements of wheels and hands.      
+3. Arduino Nano was used for operating the head including LED Matrix used as the eyes of our bot, WallE.     
+
+4. Wall-E is controlled through an Android device using an app made on MITAppInventor2.      
+5. A bluetooth module was used for transmission of commands from android device to our bot.     
+6. All the dc motors were powered through Li-Po 11.1V dc battery.      
 
 
 ## Cost Structure
 |COMPONENTS | COST(₹)|
 |----|------|
+|Android Device|10000|
 |Arduino Uno|500|
 |Arduino Nano|300|
 |L298n motor driver(2)|320|
@@ -43,7 +64,7 @@ The arduino code can be found in "src" folder. Our bot was controlled through an
 |Li-Po battery(2)|2200|
 |Led Matrix MAX7219(2)|300|
 |Other Components|2000|
-|Total|11530|
+|Total|21530|
 
 
 ## Applications
