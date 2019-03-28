@@ -1,6 +1,7 @@
 # Wall-E
 Srishti 2019
 
+❮img src="https://user-images.githubusercontent.com/48998778/55174343-46bfba00-51a3-11e9-8523-ed4cbb1a633a.jpg" width="100" height="100" ❯
 ![IMG_2421](https://user-images.githubusercontent.com/48998778/55174343-46bfba00-51a3-11e9-8523-ed4cbb1a633a.jpg)
 
 
