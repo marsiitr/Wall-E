@@ -30,7 +30,18 @@ The arduino code can be found in "src" folder. Our bot was controlled through an
 
 
 ## COST STRUCTURE
-Cost of making this bot is around Rs.8000.
+|COMPONENTS | COST(₹)|
+|----|------|
+|Arduino Uno|500|
+|Arduino Nano|300|
+|L298n motor driver(2)|320|
+|Cytron motor driver|2000|
+|Bluetooth module|350|
+|Voltmeter|160|
+|Servo motor(s3003)|400|
+|DC motors(5)|3000|
+|Li-Po battery(2)|2200|
+|Led Matrix MAX7219(2)|300|
 
 
 ## APPLICATIONS
