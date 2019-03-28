@@ -25,7 +25,7 @@ The body was made using channels and plywood whereas the head was 3D printed.
 
 
 ## ELECTRONICS ASPECT OF THE DESIGN
-We used two microcontrollers namely Arduino Uno and Arduino Nano for the this bot.Uno was used for movements of wheels and hands whereas nano was used for operating the head including LED Matrix used as the eyes of our bot, WallE.
+We used two microcontrollers namely Arduino Uno and Arduino Nano, two L298n motor drivers, cytron motor driver,dc motors, servo motor,  bluetooth module and two LED Matrix MAX7219 for the this bot.Uno was used for movements of wheels and hands whereas nano was used for operating the head including LED Matrix used as the eyes of our bot, WallE.
 The arduino code can be found in "src" folder. Our bot was controlled through an Android device using an app made on MITAppInventor2. A bluetooth module was used for transmission of commands from android device to our bot. All the dc motors were powered through Li-Po dc battery.
 
 
