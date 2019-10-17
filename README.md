@@ -29,17 +29,17 @@ time.So introducing the robot, WALL-E that can collect waste directly from dustb
 
 ## Electronics Aspect of the Design      
 1. Electronic Components Used      
-         1.Arduino Uno     
-         2.Arduino Nano            
-         3.L298n motor drivers             
-         4.cytron motor driver                 
-         5.DC motors             
-         6.Servo motor           
-         7.Bluetooth module HC-05               
-         8.LED Matrix MAX7219              
-         9. Android device     
-         10.IC 7805 and IC 7809           
-         11.Connecting wires and jumpers             
+         a. Arduino Uno     
+         b. Arduino Nano            
+         c. L298n motor drivers             
+         d. cytron motor driver                 
+         e. DC motors             
+         f. Servo motor           
+         g. Bluetooth module HC-05               
+         h. LED Matrix MAX7219              
+         i. Android device     
+         j. IC 7805 and IC 7809           
+         k. Connecting wires and jumpers             
 
 2. Arduino Uno was used for movements of wheels and hands.      
 3. Arduino Nano was used for operating the head including LED Matrix used as the eyes of our bot, WallE.     
@@ -76,26 +76,26 @@ Currently, our bot is manually operated and thus require human help to be operat
 
 
 ## Future Improvements
-Many furthur improvements can be done in this robot. Using IOT, this bot can be controlled from anywhere and can be live-streamed using webcam.
+Many further improvements can be done in this robot. Using IOT, this bot can be controlled from anywhere and can be live-streamed using webcam.
 It can be made autonomous using ML so that it can detect dustbins and collect garbage.Hence, it will no longer require commands to move, pick or dump.
 
 
 
 ## Team Members
 
-1.Ayush Jalan   
-2.Birendar Yadav   
-3.Divesh Kumar   
-4.Ritik Raj    
-5.Sahil Sudan    
-6.Shubham Goyal  
+1. Ayush Jalan   
+2. Birendar Yadav   
+3. Divesh Kumar   
+4. Ritik Raj    
+5. Sahil Sudan    
+6. Shubham Goyal  
 
 
 
 ## Mentors
 
-1.Navin Chandra    
-2.Vandan Gajjar   
-3.Yawan Gupta
+1. Navin Chandra    
+2. Vandan Gajjar   
+3. Yawan Gupta
 
 ![IMG_2637](https://user-images.githubusercontent.com/48998778/55175039-9357c500-51a4-11e9-9399-fb1e1b2defa3.JPG)
